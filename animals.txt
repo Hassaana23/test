@@ -1,4 +1,4 @@
 chicken
 dog
-cat
+cats
 parrot
