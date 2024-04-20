@@ -1,4 +1,3 @@
 chicken
 dog
-cats
-parrot
+cat
