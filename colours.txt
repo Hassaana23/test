@@ -1,6 +1,6 @@
 red
 blue
-greeeeeeen
+green
 black
 grey
 pink
