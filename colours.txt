@@ -2,5 +2,7 @@ reeeeddd
 blue
 green
 black
+yellow
+lilac
 grey
 pink
