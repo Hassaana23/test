@@ -2,3 +2,4 @@ chicken
 dog
 cat
 sheep
+horse
