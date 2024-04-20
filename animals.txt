@@ -1,5 +1,3 @@
 chicken
 dog
 cat
-horse
-sheep
